@@ -1,0 +1,9 @@
+1) Create a repo
+2) Go to  -> gitdesktop
+2-i) Add repository
+2-ii) Clone Repository 
+2-iii) Open in VS code
+
+Enjoy 🌃🌃🌃🌃
+
+credits :- Abhijeet Ingle
